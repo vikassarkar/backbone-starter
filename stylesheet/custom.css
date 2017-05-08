@@ -1,0 +1,10 @@
+
+.pageContainer.container,.main-content{
+	margin-top:60px;
+}
+.form-control{
+	max-width: 500px;
+}
+.error-msg{
+	color: red;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "angular 1 demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "Loading Demo ......."
+  },
+  "author": "Vikas Sarkar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.11",
+    "gulp-jshint": "^2.0.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}

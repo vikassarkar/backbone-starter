@@ -1,0 +1,68 @@
+{"pages":[
+		{
+			"page_id":"home",
+			"title":"Home Page",
+			"pageURL":"Module/views/home.html",
+			"moduleJS":""
+
+
+		},
+		{
+			"page_id":"about",
+			"title":"About Page",
+			"pageURL":"Module/views/about.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":"Contact",
+			"title":"Contact US Page",
+			"pageURL":"Module/views/Contact.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":1,
+			"title":"First Page",
+			"pageURL":"Module/views/1.html",
+			"moduleJS":""
+		},
+		{
+			"page_id":2,
+			"title":"Second Page",
+			"pageURL":"Module/views/1.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":3,
+			"title":"Third Page",
+			"pageURL":"Module/views/1.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":4,
+			"title":"Fourth Page",
+			"pageURL":"Module/views/1.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":5,
+			"title":"Fifth Page",
+			"pageURL":"Module/views/1.html",
+			"moduleJS":""
+
+		},
+		{
+			"page_id":"logout",
+			"title":"logout",
+			"pageURL":"Module/views/logout.html",
+			"moduleJS":"Module/logout"
+
+		}
+
+
+	]
+}

@@ -1,0 +1,46 @@
+{
+
+	"users":[
+
+		{
+			"name":"Pooja",
+			"lastname":"Rathore",
+			"username":"pooja-rathore",
+			"password":"12345",
+			"mail":"pooja@gmail.com",
+			"mobilenum":"9876543219",
+			"address":"India"
+		},
+		{
+			"name":"Bert",
+			"lastname":"Perk",
+			"username":"Bert-Perk",
+			"password":"12345",
+			"mail":"bert@gmail.com",
+			"mobilenum":"8976543219",
+			"address":"Norway"
+		},
+		{
+			"name":"Kelvin",
+			"lastname":"Bing",
+			"username":"Kelvin-Bing",
+			"password":"12345",
+			"mail":"kelvin@gmail.com",
+			"mobilenum":"77876543219",
+			"address":"New York"
+		},{
+			"name":"1",
+			"lastname":"Rathore",
+			"username":"1",
+			"password":"1",
+			"mail":"pooja@gmail.com",
+			"mobilenum":"9876543219",
+			"address":"India"
+		}
+
+
+	]
+
+
+	
+}
